@@ -4,7 +4,6 @@ package com.example.vocubulary;
  */
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
-
 import android.media.AudioManager;
 import android.os.Bundle;
 import com.google.android.material.tabs.TabLayout;
