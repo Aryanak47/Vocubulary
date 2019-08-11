@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Vocubulary</string>
+    <string name="Title_Bed">Bed</string>
+    <string name="Title_XtraWords">Extra Words</string>
+    <string name="Title_Eating">Eating</string>
+    <string name="Title_Music">Music</string>
+    <string name="Title_Relationship">Relationship</string>
+</resources>

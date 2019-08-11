@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorAccent">#7c4dff</color>
+    <color name="colorPrimary">#ff5722</color>
+    <color name="colorPrimaryDark">#e64a19</color>
+    <color name="Bed_room_color">#9c27b0</color>
+    <color name="Bonus_words">#ff5722</color>
+    <color name="Eating_color">#4caf50</color>
+    <color name="Music_color">#cddc39</color>
+    <color name="Relationship_color">#c2185b</color>
+    <color name="tabs_color">#bdbdbd</color>
+</resources>
